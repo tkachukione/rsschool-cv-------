@@ -1,11 +1,9 @@
-<div style=' background-color:#e8e8e8; text-align:center; color:#000 '>
-
 # Tkachuk Ivan
 
 ### CONTACTS
-<a href='mailto:tkachukione@gmail.com'>tkachukione@gmail.com</a>
+tkachukione@gmail.com
+mobile phone +380668569547 
 
-<a href='tel:+380-668-569-547'>mobile phone +380668569547 </a>
 ## PERSONAL DETAILS
 
 Extremely motivated to constantly develop my skills and grow professionally. A highly motivated, confident individual with exceptional multi-tasking capabilities 
@@ -23,6 +21,7 @@ Bachelor and masters degree   in Igor Sikorsky Kyiv Polytechnic Institute,  facu
 - Person with a various skill-set, a lot of integrity and a willingness to go the extra mile to achieve goal.
 
 ## INTERESTS
+
 ![](interests.PNG)
 
-</div>
+
