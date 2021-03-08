@@ -5,7 +5,7 @@
 ### CONTACTS
 <a href='mailto:tkachukione@gmail.com'>tkachukione@gmail.com</a>
 
-<a href='tel:380668569547'>mobile phone 380668569547 </a>
+<a href='tel:380-668-569-547'>mobile phone 380668569547 </a>
 ## PERSONAL DETAILS
 
 Extremely motivated to constantly develop my skills and grow professionally. A highly motivated, confident individual with exceptional multi-tasking capabilities 
